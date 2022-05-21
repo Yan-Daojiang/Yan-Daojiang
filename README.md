@@ -1,54 +1,21 @@
-<!-- ### Hi there 👋 -->
-<!-- 
-**Yan-Daojiang/Yan-Daojiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**Yan-Daojiang/Yan-Daojiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <a href="https://twitter.com/Yandaojiang">
-  <img align="left" alt="Yan-Daojiang's Twitter" width="22px" src="assets/twitter.svg" />
-</a>
-<a href="https://me.yandaojiang.com">
-  <img align="left" alt="Yan-Daojiang's Resume" width="22px" src="https://img.icons8.com/fluency/48/000000/resume.png"/>
-</a> -->
-
-![](https://visitor-badge.glitch.me/badge?page_id=Yan-Daojiang)
-
-
-**[Twitter](https://twitter.com/Yandaojiang)| [Blog](https://blog.yandaojiang.com) | [CV](https://me.yandaojiang.com) |**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yan-daojiang&label=visitors&color=0e75b6&style=flat" alt="yan-daojiang" />
+<a href="https://twitter.com/yandaojiang" target="blank"><img src="https://img.shields.io/twitter/follow/yandaojiang?logo=twitter&style=for-the-badge%20views&color=0e75b6&style=flat" alt="yandaojiang" width="180" height="20"/></a>
+<a href="https://yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-homepage-blue" alt="yandaojiang" width="82" height="20"/></a>
+<a href="https://blog.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Blog-blue" alt="yandaojiang" width="50" height="20"/></a>
+<a href="https://me.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Resume-blue" alt="yandaojiang" width="62" height="20"/></a> </p>
 
 
 hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
-<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
+<img align="center" alt="GIF" src="assets/code.gif" width="500" height="320" />
 
+<br>
+<br>
 
 ### **📈 my github stats**
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yan-Daojiang&show_icons=true&theme=gotham" alt="Yan-Daojiang" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yan-Daojiang&show_icons=true&theme=gotham" alt="Yan-Daojiang" />
 
 
 **languages and tools:**  
