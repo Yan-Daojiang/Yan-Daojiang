@@ -9,7 +9,7 @@
 
 hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
-<img align="center" alt="GIF" src="assets/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="assets/code.gif" width="500" height="320" />
 
 <br>
 <br>
