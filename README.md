@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yan-daojiang&label=visitors&color=0e75b6&style=flat" alt="yan-daojiang" />
 <a href="https://twitter.com/yandaojiang" target="blank"><img src="https://img.shields.io/twitter/follow/yandaojiang?logo=twitter&style=for-the-badge%20views&color=0e75b6&style=flat" alt="yandaojiang" width="180" height="20"/></a>
-<a href="https://yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-homepage-blue" alt="yandaojiang" width="82" height="20"/></a>
 <a href="https://blog.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Blog-blue" alt="yandaojiang" width="50" height="20"/></a>
 <a href="https://me.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Resume-blue" alt="yandaojiang" width="62" height="20"/></a> </p>
 
