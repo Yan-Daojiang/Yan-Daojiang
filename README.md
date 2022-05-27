@@ -32,6 +32,8 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git相关记录](https://blog.yandaojiang.com/posts/tech/others/git%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/)
+- [Redis哨兵机制](https://blog.yandaojiang.com/posts/tech/database/redis%E5%93%A8%E5%85%B5%E6%9C%BA%E5%88%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
