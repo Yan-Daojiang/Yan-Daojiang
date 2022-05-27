@@ -30,7 +30,7 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
 <br>
 
-### Blog posts
+### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
