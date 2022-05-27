@@ -16,6 +16,8 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 ### **📈 my github stats**
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Yan-Daojiang&show_icons=true&theme=gotham" alt="Yan-Daojiang" />
 
+### Contribution Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yan-Daojiang&theme=dracula&hide_border=true)
 
 **languages and tools:**  
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a> 
@@ -28,5 +30,10 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
 <br>
 <br>
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 💬 ask me about anything, i am happy to help, [email](mailto:yandaojiang@whu.edu.cn) :)
