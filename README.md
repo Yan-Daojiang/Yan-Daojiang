@@ -16,7 +16,7 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 <!-- ### Contribution Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Yan-Daojiang&theme=dracula&hide_border=true) -->
 
-**languages and tools:**  
+**languages and tools:**
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="linux" width="30" height="30"/> </a>
 <a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/> </a>
