@@ -1,4 +1,4 @@
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## hey there 👋🏻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yan-daojiang&label=visitors&color=0e75b6&style=flat" alt="yan-daojiang" />
 <a href="https://twitter.com/yandaojiang" target="blank"><img src="https://img.shields.io/twitter/follow/yandaojiang?logo=twitter&style=for-the-badge%20views&color=0e75b6&style=flat" alt="yandaojiang" width="180" height="20"/></a>
