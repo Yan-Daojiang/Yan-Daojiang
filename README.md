@@ -27,8 +27,8 @@ hi, i'm [Yan Daojiang](https://yandaojiang.com/)
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [《软技能》读书笔记--职业篇](https://blog.yandaojiang.com/posts/tech/others/%E8%BD%AF%E6%8A%80%E8%83%BD%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E8%81%8C%E4%B8%9A%E7%AF%87/)
 - [Git相关记录](https://blog.yandaojiang.com/posts/tech/others/git%E7%9B%B8%E5%85%B3%E8%AE%B0%E5%BD%95/)
-- [Redis哨兵机制](https://blog.yandaojiang.com/posts/tech/database/redis%E5%93%A8%E5%85%B5%E6%9C%BA%E5%88%B6/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
