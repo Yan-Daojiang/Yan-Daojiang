@@ -6,7 +6,7 @@
 <!-- <a href="https://me.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Resume-blue" alt="yandaojiang" width="62" height="20"/></a> </p> -->
 
 
-hi, i'm [Yan Daojiang](https://yandaojiang.com/)
+ <!-- hi, i'm [Yan Daojiang](https://yandaojiang.com/) -->
 
 <!-- <img align="left" alt="GIF" src="assets/code.gif" width="500" height="320" /> -->
   
