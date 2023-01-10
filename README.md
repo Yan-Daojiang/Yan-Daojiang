@@ -26,8 +26,8 @@
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/tech/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
 - [Channel原理与实现](https://blog.yandaojiang.com/posts/tech/golang/channel%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0/)
-- [《软技能》读书笔记--职业篇](https://blog.yandaojiang.com/posts/tech/others/%E8%BD%AF%E6%8A%80%E8%83%BD%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E8%81%8C%E4%B8%9A%E7%AF%87/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
