@@ -26,8 +26,8 @@
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Git集锦](https://blog.yandaojiang.com/posts/tech/version_control/git%E9%9B%86%E9%94%A6/)
 - [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/tech/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
-- [Channel原理与实现](https://blog.yandaojiang.com/posts/tech/golang/channel%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
