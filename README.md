@@ -27,7 +27,7 @@
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Git集锦](https://blog.yandaojiang.com/posts/tech/version_control/git%E9%9B%86%E9%94%A6/)
-- [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/tech/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
+- [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✍️Random Dev Quote
