@@ -26,7 +26,7 @@
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Git 集锦](https://blog.yandaojiang.com/posts/tech/version_control/git%E9%9B%86%E9%94%A6/)
+- [Git 常用命令总结](https://blog.yandaojiang.com/posts/tech/version_control/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/)
 - [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
 <!-- BLOG-POST-LIST:END -->
 
