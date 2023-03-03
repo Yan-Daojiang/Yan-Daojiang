@@ -1,11 +1,5 @@
 ## hey there 👋🏻
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yan-daojiang&label=visitors&color=0e75b6&style=flat" alt="yan-daojiang" />
-<a href="https://blog.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Blog-blue" alt="yandaojiang" width="50" height="20"/></a>
-<!-- <a href="https://me.yandaojiang.com" target="blank"><img src="https://img.shields.io/badge/My-Resume-blue" alt="yandaojiang" width="62" height="20"/></a> </p> -->
-
-
- <!-- hi, i'm [Yan Daojiang](https://yandaojiang.com/) -->
+<!-- hi, i'm [Yan Daojiang](https://yandaojiang.com/) -->
 
 <!-- <img align="left" alt="GIF" src="assets/code.gif" width="500" height="320" /> -->
   
@@ -29,9 +23,9 @@
 - [Git 常用命令总结](https://blog.yandaojiang.com/posts/tech/version_control/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/)
 - [Hugo Shortcodes 示例](https://blog.yandaojiang.com/posts/others/hugo_shortcodes%E7%A4%BA%E4%BE%8B/)
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 
 💬 ask me about anything, i am happy to help, [email](mailto:yandaojiang@whu.edu.cn) :)
