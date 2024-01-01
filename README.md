@@ -20,8 +20,8 @@
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [记 2023](https://blog.yandaojiang.com/posts/life/summary2023/)
 - [Kubernetes 整体架构与核心组件](https://blog.yandaojiang.com/posts/tech/kubernetes/kubernetes%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E4%B8%8E%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6/)
-- [[译]阅读的重要性](https://blog.yandaojiang.com/posts/others/the_need_to_read/)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 ### ✍️Random Dev Quote
