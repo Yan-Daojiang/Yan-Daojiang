@@ -20,8 +20,8 @@
 
 ### 📝Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux 网络 —— 数据包的发送](https://blog.yandaojiang.com/posts/tech/linux/linux-net-trans/)
 - [Linux 网络 —— 数据包的接收](https://blog.yandaojiang.com/posts/tech/linux/linux-net-rx/)
-- [Python 中的元类](https://blog.yandaojiang.com/posts/tech/python/metaclass_in_python/)
 <!-- BLOG-POST-LIST:END -->
 <!-- 
 ### ✍️Random Dev Quote
